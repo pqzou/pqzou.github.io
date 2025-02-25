@@ -10,3 +10,6 @@
 - title: bilibili
   url: https://space.bilibili.com/677021828
   icon: fab fa-brands fa-bilibili
+- title: Orcid
+  url: https://orcid.org/0009-0009-1665-2867
+  icon: fab fa-brands fa-orcid
