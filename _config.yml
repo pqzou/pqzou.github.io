@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Pqzou的博客
+description: 关于急救 电脑 网络 业余无线电 二次元
+url: https://pqzou.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: pqzou1145
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Josiah Smith
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/pqzou1145
+    - https://github.com/pqzou
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Josiah Smith
+  url: https://github.com/pqzou
+  email: pqzou114514@gmail.com
