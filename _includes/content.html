@@ -4,14 +4,14 @@
 
 <footer class="footer">
   {%- assign year_from = site.posts[-1].date | date: '%Y' -%}
-  {%- assign year_to   = site.time | date: '%Y' -%}
-  {%- if year_from == nil or year_from == year_to -%}
-    {%- assign year_string = year_from -%}
+  {%- assign current_year = site.time | date: '%Y' -%}
+  {%- if current_year == "2024" -%}
+    {%- assign year_string = "2024 - " | append: current_year -%}
   {%- else -%}
-    {%- assign year_string = year_from | append: '&nbsp;' | append: '-' | append: '&nbsp;' | append: year_to -%}
+    {%- assign year_string = "2024 - " | append: current_year -%}
   {%- endif -%}
   <small>
-    &copy; {{ year_string }} {% if site.author %}<a href="{{ site.author.url }}">{{ site.author.name }}</a>{% endif %}. All rights reserved.
+    &copy; {{ year_string }} <a href="{{ site.author.url }}">{{ site.author.name }}</a>. All rights reserved.
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/vszhub/not-pure-poole">Not Pure Poole</a>.
     <br>
     <a href="https://icp.gov.moe/?keyword=20251227" target="_blank">萌ICP备20251227号</a>
@@ -22,7 +22,7 @@
 
 <script>
   function updateTime() {
-    const startDate = new Date("2024-09-17T13:25:00"); // 网站开始运行时间
+    const startDate = new Date("2024-6-16T13:25:00"); // 网站开始运行时间
     const currentDate = new Date();
     const diff = currentDate - startDate;
     
