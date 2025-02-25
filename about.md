@@ -12,5 +12,8 @@ title: 关于Josiah Smith
 ·Steam好友代码:<a href="https://steamcommunity.com/profiles/76561199215632460/" target="_blank">
     <span style="color: #92c4f7;">1255366732</span>
 </a><br>
+·业余无线电呼号<span style="color: #92c4f7;">BH2XHN</span><br>
+··爱会赢赛道急救人员 持有AHA CPR&AED 中国红十字救护员<br>
+
 
 在这个博客中可能会有的文章类型，急救，电脑，智能家居，网络，业余无线电，二次元等相关内容<br>
