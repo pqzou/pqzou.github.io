@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于基础生命BLS支持
+title: 在院前急救人员到场之前我们该怎么办？
 date: 2025-02-25 02:23 +0800
 last_modified_at: 2025-02-25 02:23:25 +0800
 toc:  true
