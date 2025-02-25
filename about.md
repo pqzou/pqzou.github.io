@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于Josiah Smith
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+这里是Josiah Smith的博客（Pqzou）在这个博客中可能会有的文章类型，急救，电脑，智能家居，网络，业余无线电，二次元等相关内容内容
