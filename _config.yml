@@ -57,3 +57,9 @@ author:
   name: Josiah Smith
   url: https://github.com/pqzou
   email: pqzou114514@gmail.com
+
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+    tags: true  # 这允许显示标签
