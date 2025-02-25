@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://pqzou114514@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+- title: QQ
+  url: https://qm.qq.com/q/G6RUn5YME0
+  icon: fab fa-qq
+- title: Github
+  url: https://github.com/pqzou
   icon: fab fa-github
+- title: bilibili
+  url: https://space.bilibili.com/677021828
+  icon: fab fa-tv
